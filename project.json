@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "linkedlist-snake",
+  "uuid": "824e6c6d-2eff-42d8-9912-6c21d1b430de",
+  "version": "2.3.3",
+  "id": "7837c8a0-357f-4973-9bcd-c1ce4cc8c0c0",
+  "isNew": false
+}
