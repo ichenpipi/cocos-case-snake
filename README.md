@@ -9,3 +9,11 @@
 
 #### 引擎
 Cocos Creator 2.3.3
+
+#### 关于
+
+作者：陈皮皮（ifaswind）
+
+公众号：文弱书生陈皮皮
+
+![weixin](https://gitee.com/ifaswind/image-storage/raw/master/weixin/qrcode.png)
