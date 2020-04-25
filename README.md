@@ -8,8 +8,10 @@
 #### 截图
 ![gif](https://gitee.com/ifaswind/image-storage/raw/master/snake/10.1-Preview.gif)
 
-#### 引擎
-Cocos Creator 2.3.3
+#### 说明
+引擎：Cocos Creator 2.3.3
+
+语言：TypeScript
 
 #### 关于
 
