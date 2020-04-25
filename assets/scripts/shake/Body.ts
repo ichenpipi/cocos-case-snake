@@ -4,7 +4,7 @@ const { ccclass, property } = cc._decorator;
 export default class Body extends cc.Component {
 
     @property({ type: Body, tooltip: '下一节身体' })
-    protected nextNode: Body = null;
+    protected nextBody: Body = null;
 
     protected lastPos: cc.Vec2 = null; // 上一个位置
 
@@ -12,8 +12,8 @@ export default class Body extends cc.Component {
      * 设置下一节身体
      * @param body 节点
      */
-    public setNextNode(body: Body) {
-        this.nextNode = body;
+    public setNextBody(body: Body) {
+        this.nextBody = body;
         body.node.setPosition(this.lastPos);
     }
 
@@ -28,7 +28,7 @@ export default class Body extends cc.Component {
         // 自身移动到新的位置
         this.node.setPosition(nextPos);
         // 让下一个节点移动到之前的位置
-        if (this.nextNode) this.nextNode.move(this.lastPos);
+        if (this.nextBody) this.nextBody.move(this.lastPos);
     }
 
 }
