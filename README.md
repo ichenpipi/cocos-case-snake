@@ -1,14 +1,17 @@
-# 贪吃蛇
+# 贪吃蛇 Demo
 
 #### 介绍
+
 经典游戏 - 贪吃蛇
 
 使用计算机键盘的上下左右键控制方向
 
-#### 截图
+#### 预览
+
 ![gif](https://gitee.com/ifaswind/image-storage/raw/master/snake/10.1-Preview.gif)
 
-#### 说明
+#### 环境
+
 引擎：Cocos Creator 2.3.3
 
 语言：TypeScript
