@@ -8,7 +8,7 @@
 
 ## 预览
 
-![preview](https://gitee.com/ifaswind/image-storage/raw/master/repositories/simple-xiaoxiaole/preview.gif)
+![preview](https://gitee.com/ifaswind/image-storage/raw/master/repositories/snake/preview.gif)
 
 ## 环境
 
